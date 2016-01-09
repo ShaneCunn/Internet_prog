@@ -1,0 +1,22 @@
+/*var image1 = new Image;
+ var image2 = new Image;
+ var image3 = new Image;
+ var image4 = new Image;
+ image1.src = "images/banner1.jpg";
+ image2.src = "images/banner2.jpg";
+ image3.src = "images/banner3.jpg";
+ image4.src = "images/banner4.jpg";
+
+ var frame = new Array(image1,image2,image3,image4);
+ var numframes = frame.length;
+ var curframe = 0;
+
+ function Banner()
+ {
+ curframe++;
+ if(curframe == numframes) curframe = 0;
+ document.slider.src = frame[curframe].src;
+ //pause("Banner()", 2000); //pause between content change (millisec)
+ setTimeout("Banner()",2000);
+
+ }*/
